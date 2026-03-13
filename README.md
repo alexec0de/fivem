@@ -15,3 +15,6 @@ To develop FiveM, please follow the documentation in [docs/](https://github.com/
 
 ## License
 FiveM is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/citizenfx/fivem/blob/master/code/LICENSE) file in the repository.
+
+## Patched 
+Fix crash Early-exit trap! by [alexec0de](https://alexec0de.pro)
